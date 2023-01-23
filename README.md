@@ -19,7 +19,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
+```py
 '''
 Developed by: Sanjay Ragavendar M K
 RegisterNumber: 22009286
