@@ -20,10 +20,10 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```py
-'''
-Developed by: Sanjay Ragavendar M K
-RegisterNumber: 22009286
-'''
+#Program to swap values of two variables 
+#Developed by: Sanjay Ragavendar M K
+#RegisterNumber: 22009286
+
 a=float(input())
 b=float(input())
 temp=b
